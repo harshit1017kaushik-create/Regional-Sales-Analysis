@@ -231,4 +231,4 @@ B.Tech — Computer Science & Engineering
 Interested in Data Analytics, Business Intelligence, Python, SQL, Machine Learning, and Power BI.
 
 **GitHub:** https://github.com/harshit1017kaushik-create  
-**Live Website:** [Add published website URL]
+**Live Website:** https://harshit1017kaushik-create.github.io/Regional-Sales-Analysis/
